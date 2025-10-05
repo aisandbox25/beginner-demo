@@ -1,6 +1,7 @@
 # GenAI Beginner 101: From Zero to Your First Python Demo Using Cursor
 
 Welcome! This guide walks you through setting up Python, installing Cursor, and running your first GenAI-powered Python demo — even if you're brand new to this space.
+Follow steps in `GenAI-Beginner-101-step-by-step-setup-guide.pdf`
 
 ---
 
@@ -44,8 +45,6 @@ https://cursor.com/download
 
 ## 4. After installation, open Cursor and load your project folder (`~/beginner-demo`).
 
-Follow steps in /beginner-demo/2025-10-04-beginner-101/tutorial-material/beginner-demo-101.pdf
-
 Create and activate virtual environment
 Why use a Virtual Environment?
 Using a virtual environment helps isolate dependencies for each project and keeps your system clean.
@@ -63,8 +62,12 @@ In the right-side chat window in Cursor, paste the following prompt:
 
 ```
 在/beginner-demo/2025-10-04-beginner-101 中尝试这个demo
-
 写一个 Python 程序，让用户输入一个未来日期（如 2025-12-25），输出离今天还有几天。
+```
+
+```
+Try this demo in /beginner-demo/2025-10-04-beginner-101:
+Write a Python program that asks the user for a future date (e.g. 2025-12-25) and prints how many days are left from today.
 ```
 
 You'll see the code appear directly in the editor.
